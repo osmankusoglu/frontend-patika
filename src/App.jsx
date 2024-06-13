@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from "react";
 import "./App.css";
 import TodoAdd from "./Components/TodoAdd";
@@ -37,6 +38,35 @@ function App() {
         <br />
       </div>
     </div>
+=======
+import "./App.css";
+import Home from "./components/Home/Home.jsx";
+import "../output.css";
+import Header from "./components/Header/Header.jsx";
+import Statistics from "./components/Statistic/Statistic.jsx";
+import Classes from "./components/Classes/Classes.jsx";
+import BMI from "./components/BMI/BMI.jsx";
+import Trainer from "./components/Trainer/Trainer.jsx";
+import Purchase from "./components/Purchase/Purchase.jsx";
+import Review from "./components/Review/Review.jsx";
+import Contact from "./components/Contact/Contact.jsx";
+import Footer from "./components/Footer/Footer.jsx";
+
+function App() {
+  return (
+    <>
+      <Header />
+      <Home />
+      <Statistics />
+      <Classes />
+      <BMI />
+      <Trainer />
+      <Purchase />
+      <Review />
+      <Contact />
+      <Footer />
+    </>
+>>>>>>> 42bc6c363acb7498c920d11a3d72fb0517c6ece0
   );
 }
 
