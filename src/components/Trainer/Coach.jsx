@@ -1,5 +1,3 @@
-import React from "react";
-
 const Coach = () => {
   return (
     <div className="grid gap-10 grid-cols-1 px-20 sm:px-0 sm:grid-cols-5 items-center  ">

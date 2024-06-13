@@ -1,5 +1,3 @@
-import React from "react";
-
 const Basket = () => {
   return (
     <div className="shop px-6 py-3 flex gap-6 ">

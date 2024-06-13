@@ -1,4 +1,3 @@
-import React from "react";
 import "./Trainer.css";
 import Coach from "./Coach.jsx";
 

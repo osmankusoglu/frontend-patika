@@ -1,6 +1,6 @@
 import "./Classes.css";
 import ClassButton from "./ClassButton.jsx";
-import React, { useState } from "react";
+import { useState } from "react";
 import DynamicContent from "./DynamicContent.jsx";
 
 const Classes = () => {

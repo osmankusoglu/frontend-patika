@@ -1,4 +1,3 @@
-import React from "react";
 import Appointment from "./Appointment.jsx";
 import Map from "./Map.jsx";
 

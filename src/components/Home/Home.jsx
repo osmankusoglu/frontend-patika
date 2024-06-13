@@ -1,4 +1,3 @@
-import React from "react";
 import "./Home.css";
 import Buttons from "./Buttons.jsx";
 import HomeText from "./HomeText.jsx";

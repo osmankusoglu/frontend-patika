@@ -1,4 +1,3 @@
-import React from "react";
 import "./Review.css";
 import Text from "./Text.jsx";
 import ReviewHeader from "./ReviewHeader.jsx";

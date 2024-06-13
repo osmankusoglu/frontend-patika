@@ -1,5 +1,3 @@
-import React from "react";
-
 const HomeText = () => {
   return (
     <div className="bg-gray-950 bg-opacity-55 mr-10">

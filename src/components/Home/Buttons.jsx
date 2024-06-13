@@ -1,5 +1,3 @@
-import React from "react";
-
 const Buttons = () => {
   return (
     <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2">

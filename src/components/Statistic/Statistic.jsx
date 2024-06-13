@@ -1,5 +1,3 @@
-import React from "react";
-
 const Statistics = () => {
   return (
     <div className="bg-sky-50 flex flex-wrap justify-center pt-10 pb-10 space-x-0 sm:space-x-6 ">

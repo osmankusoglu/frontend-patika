@@ -1,4 +1,3 @@
-import React from "react";
 import "./Purchase.css";
 import Card from "./Card.jsx";
 const Purchase = () => {

@@ -1,5 +1,3 @@
-import React from "react";
-import Basket from "./Basket.jsx";
 import Product from "./Product.jsx";
 const Card = () => {
   return (

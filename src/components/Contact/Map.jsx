@@ -1,5 +1,3 @@
-import React from "react";
-
 const Map = () => {
   return (
     <div className="sm:w-4/12 w-10/12 mt-5">

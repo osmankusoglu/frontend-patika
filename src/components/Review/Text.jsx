@@ -1,5 +1,3 @@
-import React from "react";
-
 const Text = () => {
   return (
     <div className="review mx-10 bg-blue p-10 mt-2 text-ligthGrey">

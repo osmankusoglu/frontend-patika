@@ -1,4 +1,3 @@
-import React from "react";
 import Calculation from "./Calculation.jsx";
 
 const BMIDetails = () => {

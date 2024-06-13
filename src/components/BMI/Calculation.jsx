@@ -1,5 +1,3 @@
-import React from "react";
-
 const Calculation = () => {
   return (
     <form className="flex flex-col sm:flex-row sm:gap-3 ">

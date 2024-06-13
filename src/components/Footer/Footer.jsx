@@ -1,4 +1,3 @@
-import React from "react";
 import Information from "./Information.jsx";
 import Helpful from "./Helpful.jsx";
 import FooterText from "./FooterText.jsx";

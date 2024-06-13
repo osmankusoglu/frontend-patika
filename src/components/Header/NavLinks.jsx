@@ -1,5 +1,3 @@
-import React from "react";
-
 const NavLinks = () => (
   <div className="md:flex space-x-8 text-ligthGrey font-bold hidden">
     <a href="#home">Home</a>

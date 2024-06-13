@@ -1,7 +1,5 @@
-import React from "react";
 import "./Bmi.css";
 import BMIImage from "./BMIImage.jsx";
-import Calculation from "./Calculation.jsx";
 import BMIDetails from "./BMIDetails.jsx";
 
 const BMI = () => {

@@ -1,4 +1,3 @@
-import React from "react";
 import Basket from "./Basket.jsx";
 
 const Product = () => {

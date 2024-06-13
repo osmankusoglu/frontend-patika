@@ -1,5 +1,3 @@
-import React from "react";
-
 const BMIImage = () => {
   return (
     <div className="flex flex-col">

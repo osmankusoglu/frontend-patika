@@ -1,5 +1,3 @@
-import React from "react";
-
 const ReviewHeader = () => {
   return (
     <div className=" text-center pb-5">
